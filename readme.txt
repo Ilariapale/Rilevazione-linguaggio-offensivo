@@ -1,5 +1,5 @@
 # Classificazione di tweet in base al linguaggio d'odio e offensivo
-Settembre 2023
+Settembre 2023 - Progetto di Apprendimento Automatico
 
 Questo progetto si propone di classificare dei tweet in tre categorie: hate speech, offensive language e neither, usando un modello di deep learning. Il progetto è stato realizzato per il corso di Machine Learning presso l'Università di Bologna.
 
